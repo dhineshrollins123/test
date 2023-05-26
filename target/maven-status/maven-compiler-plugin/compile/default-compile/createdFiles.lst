@@ -1,7 +1,0 @@
-com\demo\DemoApplication.class
-com\demo\contr4oller\Controller.class
-com\demo\entity\CesBiweekly.class
-com\demo\entity\CesBiweeklyPkId.class
-com\demo\repository\CesBiweeklyRepo.class
-com\demo\repository\StatusGovernanceRepo.class
-com\demo\entity\StatusGovernance.class
